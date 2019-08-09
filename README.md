@@ -1,10 +1,10 @@
-# Resume
+# HTML Help
 #### Simple Webpage
 #### _**by Suzi Rubino — February 15th, 2019**_
 <br>
 
 ## Description
-A simple html page with javascript (jQuery), bootstrap and custom css stylesheets and unique fonts. First round of current resume.
+A simple html page with javascript (jQuery), bootstrap and custom css stylesheets and unique fonts. First round of current resume. Page uses a looping function to go display element identifiers.
 <br>
 
 ## Objectives
@@ -16,7 +16,7 @@ A simple html page with javascript (jQuery), bootstrap and custom css stylesheet
 ## Current Screenshot for Reference
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/htmlHelp/master/img/screenShot2-15-2019.png)
+![alt text](https://raw.githubusercontent.com/rerun1/htmlHelp/master/img/screenShot8-9-2019.png)
 <br>
 <br>
 

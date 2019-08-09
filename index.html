@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Peek-A-Boo</title>
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" charset="utf-8">
     <link rel="stylesheet" href="css/styles.css" type="text/css" charset="utf-8">
@@ -9,15 +10,20 @@
     <script src="js/scripts.js" type="text/javascript"></script>
   </head>
   <body>
+    <div class="identifyElement">
+    </div>
     <div class="container">
-      <h1>Peek-A-Boo!</h1>
-      <div id="walrus-hidden">
-        <p>Let's play peek-a-boo. <span class="clickable">Click here</span> to see the surprise!</p>
-      </div>
+      <h1>HTML Help</h1>
+      <p>This "special" web page allows you to click anywhere on the page and find out what that page's html elements are. Go ahead, try it!</p>
+
+      <p>Let's play peek-a-boo.</p>
+
+      <button type="button" class="btn btn-primary">peek-a-boo!</button>
 
       <div id="walrus-showing">
-        <p>What a cute walrus! <span class="clickable">Click here</span> to hide her again.</p>
+        <p class="mt-2">What a cute walrus!</p>
         <img src="img/walrus.jpg">
+        <p class="mt-1">click the peek-a-boo button again to hide her</p>
       </div>
     </div>
   </body>
